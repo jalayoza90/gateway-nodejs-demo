@@ -22,16 +22,16 @@ This project contains 2 Questions for client and interval time between call api 
       
 - ### How to use
 
-    $ git clone https://github.com/jalayoza90/gateway-nodejs-demo.git
-    $ cd gateway-nodejs-demo
-    $ yarn
-    $ Rename sample.env to .env
+      $ git clone https://github.com/jalayoza90/gateway-nodejs-demo.git
+      $ cd gateway-nodejs-demo
+      $ yarn
+      $ Rename sample.env to .env
 
 - ### Start backend server
-    $ yarn start server
-    i.e. http://localhost:3000 (Note: Please use port 3000, example in sample.env)
+      $ yarn start server
+      $ i.e. http://localhost:3000 (Note: Please use port 3000, example in sample.env)
 
 - ### Start frontend server
-    $ yarn start client
+      $ yarn start client
  
-## (Note: Please run both in seperate terminal)
+### (Note: Please run both in seperate terminal)
