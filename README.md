@@ -34,4 +34,4 @@ This project contains 2 Questions for client and interval time between call api 
 - ### Start frontend server
       $ yarn start client
  
-### (Note: Please run both in seperate terminal)
+ #### (Note: Please run both in separate terminal)
