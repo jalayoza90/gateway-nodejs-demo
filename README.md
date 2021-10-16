@@ -24,7 +24,8 @@ This project contains 2 Questions for client and interval time between call api 
 
     $ git clone https://github.com/jalayoza90/gateway-nodejs-demo.git
     $ cd gateway-nodejs-demo
-    $ yarn add
+    $ yarn
+    $ Rename sample.env to .env
 
 - ### Start backend server
     $ yarn start server
